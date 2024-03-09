@@ -1,14 +1,2 @@
-# Food Delivery App
-Figma Link: https://www.trusg.com/file/ApDJ1q8HkRoB9kDshBtBZ6/Food-Delivery-App
-
-![App Image](https://raw.githubusercontent.com/berkaltiok/food-delivery/master/banner.jpg)
-
-## Install Project
-```
-npm install
-```
-
-## Start Project
-```
-npm run start
-```
+# TRUSG Community Discussions
+In this repository, you will find categories for various product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
